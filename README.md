@@ -1,8 +1,4 @@
-<h1 align="center" style="border-bottom: none">
-   Install Sentry with docker on Ubuntu 22.4
-</h1>
-<hr><br>
-
+# Install Sentry with docker on Ubuntu 22.4
 Sentry is a free and open-source error-tracking platform that monitors and fixes crashes in real-time. It allows software developers to see what matters, solve quicker, and learn continuously about their applications. This platform provides real-time insight into production deployments with info to reproduce and fix crashes. Sentry supports all major languages and frameworks and integrates with your favorite apps and services.
 
 This tutorial will show you how to install Sentry Error Tracking System with Docker on Ubuntu 22.04.
